@@ -19,6 +19,8 @@ Pod::Spec.new do |s|
   
   s.dependency 'AFNetworking', '~> 3.2.0'
 
+  s.dependency 'YYKit'
+
   s.requires_arc = true
 
 end
